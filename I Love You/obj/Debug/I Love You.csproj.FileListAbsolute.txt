@@ -1,0 +1,11 @@
+C:\Users\Hima\Desktop\WFA\I Love You\I Love You\bin\Debug\I Love You.exe.config
+C:\Users\Hima\Desktop\WFA\I Love You\I Love You\bin\Debug\I Love You.exe
+C:\Users\Hima\Desktop\WFA\I Love You\I Love You\bin\Debug\I Love You.pdb
+C:\Users\Hima\Desktop\WFA\I Love You\I Love You\obj\Debug\I Love You.csproj.AssemblyReference.cache
+C:\Users\Hima\Desktop\WFA\I Love You\I Love You\obj\Debug\I Love You.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hima\Desktop\WFA\I Love You\I Love You\obj\Debug\I_Love_You.Form1.resources
+C:\Users\Hima\Desktop\WFA\I Love You\I Love You\obj\Debug\I_Love_You.Properties.Resources.resources
+C:\Users\Hima\Desktop\WFA\I Love You\I Love You\obj\Debug\I Love You.csproj.GenerateResource.cache
+C:\Users\Hima\Desktop\WFA\I Love You\I Love You\obj\Debug\I Love You.csproj.CoreCompileInputs.cache
+C:\Users\Hima\Desktop\WFA\I Love You\I Love You\obj\Debug\I Love You.exe
+C:\Users\Hima\Desktop\WFA\I Love You\I Love You\obj\Debug\I Love You.pdb
